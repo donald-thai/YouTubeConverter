@@ -1,7 +1,6 @@
 from __future__ import unicode_literals
-from pytube import YouTube,Playlist
 import youtube_dl
-from moviepy.editor import *
+
 
 from os import remove
 from tkinter import *
@@ -55,24 +54,6 @@ from PIL import Image, ImageTk, ImageSequence
 # main.mainloop()
 
 
-
-
-
-
-
-
-
-# def downMP3(link):
-#    video = YouTube(link)
-#    save_dir = video.streams.get_highest_resolution().download(output_path=dir)
-#    print(save_dir)
-#    title = os.path.splitext(save_dir)
-#    turn_to_audio = VideoFileClip(save_dir)
-#    audio_clip = turn_to_audio.audio
-#    audio_clip.write_audiofile(save_dir[0:len(save_dir) - 1] + "3")
-#    turn_to_audio.close()
-#    os.remove(save_dir)
-
 dir = "C:/Users/donal/Videos"
 option = input("Do you want to download a video (1) or a playlist (2). If you want MP3, 3 is for video and 4 is for playlist:  ")
 if option == "1":
@@ -82,6 +63,7 @@ if option == "1":
    }
    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
       ydl.download([link])
+
 
 elif option == "2":
    link = input("Input Playlist Link: ")
@@ -106,8 +88,6 @@ elif option == "3":
    }
    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
       ydl.download([link])
-
-
 
 
 elif option == "4":
