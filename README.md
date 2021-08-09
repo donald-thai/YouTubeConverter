@@ -7,8 +7,8 @@ I do plan on adding more features to the application soon (once I think of more 
 Thank you for checking this out!
 
 
-
-
+NOTE
+----------------------------
 This app should be used for personal use only. I do not own any of the pictures or gifs used in the program.
 
 GIF Credits
