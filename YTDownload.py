@@ -192,8 +192,7 @@ class DownVid(Toplevel):
 
 
 class DownPL(Toplevel):
-   def __init__(self,
-                parent):  # If this is the second window, then you can add a root variable to tell it where the root is (if it is not the parent) and then destroy it that way
+   def __init__(self, parent):  # If this is the second window, then you can add a root variable to tell it where the root is (if it is not the parent) and then destroy it that way
       self.parent = parent
       print(self.parent)
       Toplevel.__init__(self, self.parent)
