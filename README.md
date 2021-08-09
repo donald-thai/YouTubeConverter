@@ -6,6 +6,15 @@ I do plan on adding more features to the application soon (once I think of more 
 
 Thank you for checking this out!
 
+USAGE
+----------------------------
+The current application can be accesssed by downloading and unzipping YTDownloader.rar. Then, all you have to do is open YTDownload.exe. Make sure you keep the Gifs folder and the Pictures folder in the same place as the .exe file. 
+
+Using the application is simple. 
+1. Determine if you want to download a YT video or playlist and choose the correct option.
+2. Enter the video/playlist URL and hit the "Get URL" button.
+3. Choose where you want to download the video/playlist to using the "Download to" button.
+4. Then, you hit the "Download as MP4" or "Download as MP3" button. You can download the video/playlist both ways without having to re-enter the url.
 
 NOTE
 ----------------------------
