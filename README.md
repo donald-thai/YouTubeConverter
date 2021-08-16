@@ -2,7 +2,7 @@
 This application allows you to download YouTube videos as a video (generally MP4 format) or as an MP3.
 It can also download YouTube playlist, assuming that the playlist is public.
 
-I do plan on adding more features to the application soon (once I think of more things to add).
+I do plan on adding more features to the application soon (once I think of more things to add). I also plan on using inheritance to reuse code for the playlist downloader.
 
 Thank you for checking this out!
 
