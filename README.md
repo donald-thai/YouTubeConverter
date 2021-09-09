@@ -19,6 +19,7 @@ Using the application is simple.
 4. Then, you hit the "Download as MP4" or "Download as MP3" button. You can download the video/playlist both ways without having to re-enter the url.
 
 NOTE: ffmpeg opens up command windows when your videos are being downloaded. These windows are harmless, and I will look for a way to prevent this if possible.
+NOTE 2: The GUI has screen resolution issues, so it looks kind of bad at the moment. However, I am looking into ways to fix it.
 
 NOTE
 ----------------------------
