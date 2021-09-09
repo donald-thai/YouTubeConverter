@@ -8,6 +8,8 @@ Thank you for checking this out!
 
 USAGE
 ----------------------------
+Before using, please install ffmpeg onto your computer. This youtube video does a good job explaining how to do so. https://www.youtube.com/watch?v=r1AtmY-RMyQ
+
 The current application can be accesssed by downloading and unzipping YTDownloader.rar. Then, all you have to do is open YTDownload.exe. Make sure you keep the Gifs folder and the Pictures folder in the same place as the .exe file. 
 
 Using the application is simple. 
@@ -15,6 +17,8 @@ Using the application is simple.
 2. Enter the video/playlist URL and hit the "Get URL" button.
 3. Choose where you want to download the video/playlist to using the "Download to" button.
 4. Then, you hit the "Download as MP4" or "Download as MP3" button. You can download the video/playlist both ways without having to re-enter the url.
+
+NOTE: ffmpeg opens up command windows when your videos are being downloaded. These windows are harmless, and I will look for a way to prevent this if possible.
 
 NOTE
 ----------------------------
