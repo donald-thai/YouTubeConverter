@@ -14,7 +14,7 @@ USAGE
 ----------------------------
 Before using, please install ffmpeg onto your computer. This youtube video does a good job explaining how to do so. https://www.youtube.com/watch?v=r1AtmY-RMyQ
 
-The current application can be accesssed by downloading and unzipping YTDownloader.rar. Then, all you have to do is open YTDownload.exe. Make sure you keep the Gifs folder and the Pictures folder in the same place as the .exe file. 
+The current application can be accesssed by downloading and unzipping YTDownloader.zip. Then, all you have to do is open YTDownload.exe. Make sure you keep the Gifs folder and the Pictures folder in the same place as the .exe file. 
 
 Using the application is simple. 
 1. Determine if you want to download a YT video or playlist and choose the correct option.
