@@ -6,6 +6,10 @@ I do plan on adding more features to the application soon (once I think of more 
 
 Thank you for checking this out!
 
+RECENT UPDATES
+----------------------------
+11/28/2021: Updated the code and app to overcome YouTube's download throttling on yt-dl by switching to yt-dlp instead.
+
 USAGE
 ----------------------------
 Before using, please install ffmpeg onto your computer. This youtube video does a good job explaining how to do so. https://www.youtube.com/watch?v=r1AtmY-RMyQ
@@ -33,4 +37,5 @@ You can add your own gifs to the application by dropping the gifs in the Gifs fo
 Picture Credits
 ------------------------------
 Cherry Blossom Railroad by ComixWave Inc. from the movie, 5 Centimeters per Second.  
-Space Dog by @cryyanni on Twitter.
+Space Dog by @cryyanni on Twitter.  
+Youtube icon from FreePik
