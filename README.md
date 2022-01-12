@@ -1,16 +1,20 @@
 # YouTubeConverter
-This application allows you to download YouTube videos as a video (generally MP4 format) or as an MP3.
+This application allows you to download YouTube videos as a video (generally MKV format) or as an MP3.
 It can also download YouTube playlist, assuming that the playlist is public.
 
 I do plan on adding more features to the application soon (once I think of more things to add). I also plan on using inheritance to reuse code for the playlist downloader.
 
 Thank you for checking this out!
 
+RECENT UPDATES
+----------------------------
+11/28/2021: Updated the code and app to overcome YouTube's download throttling on yt-dl by switching to yt-dlp instead.
+
 USAGE
 ----------------------------
 Before using, please install ffmpeg onto your computer. This youtube video does a good job explaining how to do so. https://www.youtube.com/watch?v=r1AtmY-RMyQ
 
-The current application can be accesssed by downloading and unzipping YTDownloader.rar. Then, all you have to do is open YTDownload.exe. Make sure you keep the Gifs folder and the Pictures folder in the same place as the .exe file. 
+The current application can be accesssed by downloading and unzipping YTDownloader.zip. Then, all you have to do is open YTDownload.exe. Make sure you keep the Gifs folder and the Pictures folder in the same place as the .exe file. 
 
 Using the application is simple. 
 1. Determine if you want to download a YT video or playlist and choose the correct option.
@@ -33,4 +37,5 @@ You can add your own gifs to the application by dropping the gifs in the Gifs fo
 Picture Credits
 ------------------------------
 Cherry Blossom Railroad by ComixWave Inc. from the movie, 5 Centimeters per Second.  
-Space Dog by @cryyanni on Twitter.
+Space Dog by @cryyanni on Twitter.  
+Youtube icon from FreePik
